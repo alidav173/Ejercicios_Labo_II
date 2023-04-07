@@ -36,6 +36,8 @@ namespace Ejercicio_101_POO
     {
       string titular = GetTitular();
       double cantidad = GetCantidad();
+
+
       StringBuilder sb = new StringBuilder($"El nombre del titular es {titular} y tiene depositado {cantidad} pesos: ",100);
       Console.WriteLine(sb);
     }
