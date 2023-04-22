@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica_Login_Winform", "Practica_Login_Winform.csproj", "{0A4B4260-3A2B-4C68-8FE0-23DD0C5FC63E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A4B4260-3A2B-4C68-8FE0-23DD0C5FC63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4B4260-3A2B-4C68-8FE0-23DD0C5FC63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4B4260-3A2B-4C68-8FE0-23DD0C5FC63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4B4260-3A2B-4C68-8FE0-23DD0C5FC63E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58B19C49-BC58-47BF-8723-69D40CB1B92A}
+	EndGlobalSection
+EndGlobal
